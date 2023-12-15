@@ -1,6 +1,6 @@
 ![logo](https://github.com/struggleferdous/struggle/blob/main/Picsart_23-10-13_14-17-24-798.png)
-                                   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ferdous+Wahid!;" />
-<h3 align="center">Dream a professional programmer</h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ferdous+Wahid!;" />
+<h3 align="center">Dream a pro fessional programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=struggleferdous&label=Profile%20views&color=0e75b6&style=flat" alt="struggleferdous" /> </p>
 
